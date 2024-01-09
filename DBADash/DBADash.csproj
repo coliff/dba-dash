@@ -90,11 +90,11 @@
     <PackageReference Include="Microsoft.Data.SqlClient" Version="4.1.0" />
     <PackageReference Include="Microsoft.Identity.Client" Version="4.41.0" />
     <PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="2.19.5" />
-    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.15.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.15.1" />
+    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.34.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.34.0" />
     <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="6.15.1" />
     <PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="6.15.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.15.1" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.34.0" />
     <PackageReference Include="Microsoft.SqlServer.Assessment" Version="1.1.0" />
     <PackageReference Include="Microsoft.SqlServer.Assessment.Authoring" Version="1.1.0" />
     <PackageReference Include="Microsoft.SqlServer.DacFx" Version="160.5400.1" />
@@ -110,7 +110,7 @@
     <PackageReference Include="System.Data.Common" Version="4.3.0" />
     <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
     <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="6.0.0" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.15.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
     <PackageReference Include="System.Management" Version="6.0.0" />
     <PackageReference Include="System.Memory" Version="4.5.4" />
     <PackageReference Include="System.Memory.Data" Version="6.0.0" />
