@@ -58,11 +58,11 @@
     <PackageReference Include="Microsoft.Extensions.Primitives" Version="6.0.0" />
     <PackageReference Include="Microsoft.Identity.Client" Version="4.41.0" />
     <PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="2.19.5" />
-    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.15.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.15.1" />
+    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.34.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Logging" Version="6.34.0" />
     <PackageReference Include="Microsoft.IdentityModel.Protocols" Version="6.15.1" />
     <PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="6.15.1" />
-    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.15.1" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.34.0" />
     <PackageReference Include="Microsoft.SqlServer.Assessment" Version="1.1.0" />
     <PackageReference Include="Microsoft.SqlServer.Assessment.Authoring" Version="1.1.0" />
     <PackageReference Include="Microsoft.SqlServer.Management.SqlParser" Version="160.22504.0" />
